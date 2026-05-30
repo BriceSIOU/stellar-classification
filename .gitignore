@@ -1,5 +1,3 @@
 .venv/
-*.csv
-note.md
-*.png
-*.pkl
+__pycache__/
+*.pyc
